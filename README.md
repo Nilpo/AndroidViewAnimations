@@ -13,7 +13,7 @@ So, I started to collect animation effects... and in two days, this project born
 [Download Demo](https://github.com/daimajia/AndroidViewAnimations/releases/download/v1.1.2/AndroidViewAnimations-1.1.2.apk)
 # Usage
 
-For making animations more real, I created another project named [Android Easing Functions](https://github.com/daimajia/AnimationEasingFunctions) which is an implementations of [easing functions](http://easings.net/) on Android. So, we need to dependent that project.
+For making animations more real, I created another project named [Android Easing Functions](https://github.com/daimajia/AnimationEasingFunctions) which is an implementations of [easing functions](http://easings.net/) on Android. So, we need to add a dependency for that project.
 
 ## Step 1
 
@@ -66,7 +66,7 @@ YoYo.with(Techniques.Tada)
 ```
 
 ### Effects
-#### Attension
+#### Attention
 `Flash`, `Pulse`, `RubberBand`, `Shake`, `Swing`, `Wobble`, `Bounce`, `Tada`, `StandUp`, `Wave`
 
 #### Special
